@@ -1,0 +1,16 @@
+build/
+.qtcreator/
+*.pro.user
+*.autogen
+*.autosave
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.exe
+*.obj
+*.o
+moc_*
+ui_*
+qrc_*
+Snake_cpp_autogen/
+data/score.txt
